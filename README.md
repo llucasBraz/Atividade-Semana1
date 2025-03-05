@@ -6,11 +6,10 @@ Nome: Lucas do Carmo Braz
 Matricula: 1593380
 
 ## Tela de inspeção com navegador
-![image](https://github.com/user-attachments/assets/4942005c-7037-4fd4-8677-1bb58795b02c)
+![Image](https://github.com/user-attachments/assets/afbc6e23-8fce-4bf8-ac3c-3209f350d5c7)
 
 
 ## Tela de projeto no Replit
-![image](https://github.com/user-attachments/assets/58d951a8-7e15-4ddf-a894-aed9fdff4466)
-![image](https://github.com/user-attachments/assets/fda5eda7-8fc5-49b3-be86-82a424df7c6b)
-
+![Image](https://github.com/user-attachments/assets/792889f1-b763-4719-bb1a-0a865fcd57b8)
+![Image](https://github.com/user-attachments/assets/b5fd2c3e-9fcf-404c-8f80-4f639cf0deac)
 
